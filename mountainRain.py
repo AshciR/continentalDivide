@@ -23,7 +23,7 @@ def printMtn(mountArr):
 
 def checkPoint(mountArr, x_pos, y_pos):
     """ Takes a 2D array which represents the mountain's topography.
-        and the coordiates you want to check."""
+        and the coordinates you want to check."""
 
     # You need to check the four flow directions. 
 
